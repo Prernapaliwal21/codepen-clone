@@ -21,4 +21,4 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm start`
-Starts the server i.e. serves static files that are built.
+Starts the server i.e. serves static files that are built ...
